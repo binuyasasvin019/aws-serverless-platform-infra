@@ -1,6 +1,6 @@
 resource "aws_rds_cluster" "aurora" {
   engine            = "aurora-mysql"
-  engine_version    = "8.0.mysql_aurora.3.02.0"
+  engine_version    = "8.0.mysql_aurora.3.06.0"
   database_name     = var.db_name
   master_username   = var.db_user
   master_password   = var.db_password
