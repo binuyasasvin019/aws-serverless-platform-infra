@@ -1,4 +1,4 @@
-///🚀 AWS Serverless Architecture Project
+🚀 AWS Serverless Architecture Project
 ✅ A Fully Modular, Terraform‑Driven Deployment
 🗺️ Architecture Diagram
 
